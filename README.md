@@ -1,4 +1,4 @@
 # Demo
 My first Git Repository
-author - tony tyagi
+author - tony tyagi sigma
 
